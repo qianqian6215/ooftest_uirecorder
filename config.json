@@ -1,0 +1,14 @@
+{
+    "webdriver": {
+        "host": "127.0.0.1",
+        "port": "4444",
+        "browsers": "chrome"
+    },
+    "vars": {},
+    "recorder": {
+        "pathAttrs": "type",
+        "attrValueBlack": "",
+        "classValueBlack": "",
+        "hideBeforeExpect": ""
+    }
+}
